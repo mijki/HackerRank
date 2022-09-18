@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Staircase", "Staircase\Stai
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinMax", "MinMax\MinMax.csproj", "{F24BACF9-A02F-4D62-8141-20F9346402FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BirthdayCake", "BirthdayCake\BirthdayCake.csproj", "{62A089BC-DA69-4BDE-8A80-7504534D1A7C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BirthdayCake", "BirthdayCake\BirthdayCake.csproj", "{62A089BC-DA69-4BDE-8A80-7504534D1A7C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClockConverter", "ClockConverter\ClockConverter.csproj", "{6206E44D-B7AD-4F45-8121-27F83198F3AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClockConverter", "ClockConverter\ClockConverter.csproj", "{6206E44D-B7AD-4F45-8121-27F83198F3AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradingStudents", "GradingStudents\GradingStudents.csproj", "{58EBB4E4-8D23-4F70-B115-602965C09289}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{6206E44D-B7AD-4F45-8121-27F83198F3AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6206E44D-B7AD-4F45-8121-27F83198F3AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6206E44D-B7AD-4F45-8121-27F83198F3AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58EBB4E4-8D23-4F70-B115-602965C09289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58EBB4E4-8D23-4F70-B115-602965C09289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58EBB4E4-8D23-4F70-B115-602965C09289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58EBB4E4-8D23-4F70-B115-602965C09289}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
