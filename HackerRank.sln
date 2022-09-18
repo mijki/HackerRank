@@ -5,9 +5,11 @@ VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiagonalDifference", "DiagonalDifference\DiagonalDifference.csproj", "{551C9870-8F61-4BB6-AAA3-1CE25FAE6FCF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlusMinus", "PlusMinus\PlusMinus.csproj", "{D3A16D46-70F1-412B-B455-FD06FF9FE980}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlusMinus", "PlusMinus\PlusMinus.csproj", "{D3A16D46-70F1-412B-B455-FD06FF9FE980}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Staircase", "Staircase\Staircase.csproj", "{56CA501A-6149-4570-B613-538C1A38FB70}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Staircase", "Staircase\Staircase.csproj", "{56CA501A-6149-4570-B613-538C1A38FB70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinMax", "MinMax\MinMax.csproj", "{F24BACF9-A02F-4D62-8141-20F9346402FE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{56CA501A-6149-4570-B613-538C1A38FB70}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56CA501A-6149-4570-B613-538C1A38FB70}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56CA501A-6149-4570-B613-538C1A38FB70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F24BACF9-A02F-4D62-8141-20F9346402FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F24BACF9-A02F-4D62-8141-20F9346402FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F24BACF9-A02F-4D62-8141-20F9346402FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F24BACF9-A02F-4D62-8141-20F9346402FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
