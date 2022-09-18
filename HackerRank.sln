@@ -9,7 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlusMinus", "PlusMinus\Plus
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Staircase", "Staircase\Staircase.csproj", "{56CA501A-6149-4570-B613-538C1A38FB70}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinMax", "MinMax\MinMax.csproj", "{F24BACF9-A02F-4D62-8141-20F9346402FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinMax", "MinMax\MinMax.csproj", "{F24BACF9-A02F-4D62-8141-20F9346402FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BirthdayCake", "BirthdayCake\BirthdayCake.csproj", "{62A089BC-DA69-4BDE-8A80-7504534D1A7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClockConverter", "ClockConverter\ClockConverter.csproj", "{6206E44D-B7AD-4F45-8121-27F83198F3AF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{F24BACF9-A02F-4D62-8141-20F9346402FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F24BACF9-A02F-4D62-8141-20F9346402FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F24BACF9-A02F-4D62-8141-20F9346402FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62A089BC-DA69-4BDE-8A80-7504534D1A7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62A089BC-DA69-4BDE-8A80-7504534D1A7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62A089BC-DA69-4BDE-8A80-7504534D1A7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62A089BC-DA69-4BDE-8A80-7504534D1A7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6206E44D-B7AD-4F45-8121-27F83198F3AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6206E44D-B7AD-4F45-8121-27F83198F3AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6206E44D-B7AD-4F45-8121-27F83198F3AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6206E44D-B7AD-4F45-8121-27F83198F3AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
