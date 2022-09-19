@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BirthdayCake", "BirthdayCak
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClockConverter", "ClockConverter\ClockConverter.csproj", "{6206E44D-B7AD-4F45-8121-27F83198F3AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradingStudents", "GradingStudents\GradingStudents.csproj", "{58EBB4E4-8D23-4F70-B115-602965C09289}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GradingStudents", "GradingStudents\GradingStudents.csproj", "{58EBB4E4-8D23-4F70-B115-602965C09289}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SamsHouse", "SamsHouse\SamsHouse.csproj", "{87800C1C-BD29-46C4-8394-B0E686CDC7DA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{58EBB4E4-8D23-4F70-B115-602965C09289}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58EBB4E4-8D23-4F70-B115-602965C09289}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58EBB4E4-8D23-4F70-B115-602965C09289}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87800C1C-BD29-46C4-8394-B0E686CDC7DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87800C1C-BD29-46C4-8394-B0E686CDC7DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87800C1C-BD29-46C4-8394-B0E686CDC7DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87800C1C-BD29-46C4-8394-B0E686CDC7DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
